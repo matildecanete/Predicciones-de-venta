@@ -1,1 +1,1 @@
-# predicciones-de-venta
+# Proyecto 1 - Predicciones de ventas

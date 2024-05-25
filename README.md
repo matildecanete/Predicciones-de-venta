@@ -8,7 +8,9 @@ Se imputaron los valores faltantes de la columna "Item_Weight" y "Outlet_Size" y
 2. Visualizaciones.
 
 Histogramas para ver las distribuciones de las diversas características en el conjunto de datos.
+
 Boxplot para ver resúmenes estadísticos de diversas características del conjunto de datos.
+
 Mapa de calor de correlación entre las características.
 
 3. Preprocesamiento de los datos.

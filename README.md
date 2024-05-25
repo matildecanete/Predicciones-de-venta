@@ -3,8 +3,7 @@
 
 1. Limpieza de datos.
    
-Se imputaron los valores faltantes de la columna "Item_Weight" y "Outlet_Size".
-Se reemplazaron valores inconsistentes en los datos de "Item_Fat_Content".
+Se imputaron los valores faltantes de la columna "Item_Weight" y "Outlet_Size" y se reemplazaron los valores inconsistentes en los datos de la columna "Item_Fat_Content".
 
 2. Visualizaciones.
 
